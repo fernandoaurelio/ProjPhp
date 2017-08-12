@@ -1,0 +1,47 @@
+
+@font-face {
+  font-family: 'FontLogo';
+  src: url('../fonts/KaushanScript-Regular.ttf');
+}
+#LogoNavPena{
+    width: 96px;
+    margin-top: -16px;
+}
+#PesquisaNav{
+    width: 200px;
+}
+#JanelaFrame{
+    width: 700px;
+    height:400px;
+    margin-top: 15px;
+    border: none;
+    
+    
+}
+#InputForm{
+    width: 300px;
+    font-size: 10pt;
+    
+    
+}
+#Amostra{
+    margin-top: 60px;
+}
+#Logo {
+    font-family: 'FontLogo';
+    margin-top: -4px;
+    
+}
+#Painel{
+    margin-top: 10px;
+}
+tr{
+    padding: 15px;
+}
+#ddd{
+    max-width: 40px;
+}
+#CampoFone{
+    max-width: 150px;
+    
+}
